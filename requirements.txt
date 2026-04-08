@@ -1,0 +1,8 @@
+numpy
+scipy
+gensim
+matplotlib
+jupyter
+torch
+transformers
+accelerate
